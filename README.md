@@ -63,7 +63,10 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: NIRAUNJANA GAYATHRI G R
 RegisterNumber: 22008369  
 */
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
+![WhatsApp Image 2023-01-19 at 19 46 16](https://user-images.githubusercontent.com/119395610/213466022-7251e4c5-f281-430a-a8f5-c60817e5d1a5.jpg)
+
+
 RTL realization
 Output:
 ![image](https://user-images.githubusercontent.com/119395610/212461821-a5e287b3-d1e1-4475-bab4-f588d8daf745.png)
