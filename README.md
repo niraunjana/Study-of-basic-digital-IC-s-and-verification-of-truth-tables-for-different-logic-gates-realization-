@@ -61,7 +61,13 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: NIRAUNJANA GAYATHRI G R
+
 RegisterNumber: 22008369  
+
+![image](https://user-images.githubusercontent.com/119395610/213847203-ae101b69-981b-437d-8b37-683fe2311949.png)
+
+
+
 */
 Logic symbol & Truthtable:
 ![WhatsApp Image 2023-01-19 at 19 46 16](https://user-images.githubusercontent.com/119395610/213466022-7251e4c5-f281-430a-a8f5-c60817e5d1a5.jpg)
